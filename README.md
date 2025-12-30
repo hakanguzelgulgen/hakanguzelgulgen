@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hakan Guzelgulgen</h1>
+<h1 align="center">Hi 👋, I'm Hakan Güzelgülgen</h1>
 <h3 align="center">Full-stack Software Developer</h3>
 <p align="left">Hello, my name is Hakan. I've been involved with software development for about 7 years, starting with Java and focusing on backend development. Thanks to the experiences and knowledge gained from the places I've worked, I'm continuing as a full-stack developer. I'm actively trying to learn Flutter.</p>
 
