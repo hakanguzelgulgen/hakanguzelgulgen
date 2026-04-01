@@ -1,5 +1,5 @@
-<h2 align="left">Hakan Güzelgülgen</h1>
-<h4 align="left">Full-stack Software Developer</h3>
+<h2 align="left">Hakan Güzelgülgen</h2>
+<h4 align="left">Full-stack Software Developer</h4>
 <p align="left">Hi 👋, I'm Hakan, a full-stack software developer based in Turkey. I’ve been passionate about software for over 8 years and have spent the last 5 years building professional solutions. I create modern, visually appealing applications that solve real world problems, working across the full stack including frontend, backend, databases, devops and cloud.</p>
 
 - 🌍 I’m based on **İzmir, Turkey**
