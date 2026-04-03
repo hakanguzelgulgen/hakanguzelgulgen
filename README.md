@@ -5,9 +5,11 @@
 - ⚡ Check my website [hakanguzelgulgen.com](https://hakanguzelgulgen.com) 
 - 📫 How to reach me <a href="mailto:me@hakanguzelgulgen.com">me@hakanguzelgulgen.com</a>
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Social</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hakanguzelgulgen" target="blank">linkedin</a> •
 <a href="https://www.instagram.com/hakannglgn" target="blank">instagram</a> •
 <a href="https://x.com/hakannglgn" target="blank">x (twitter)</a> •
+<a href="https://dev.to/hakanguzelgulgen" target="blank">dev.to</a> •
+<a href="https://medium.com/@hakanguzelgulgen" target="blank">medium</a> •
 </p>
