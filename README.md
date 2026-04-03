@@ -11,5 +11,5 @@
 <a href="https://www.instagram.com/hakannglgn" target="blank">instagram</a> •
 <a href="https://x.com/hakannglgn" target="blank">x (twitter)</a> •
 <a href="https://dev.to/hakanguzelgulgen" target="blank">dev.to</a> •
-<a href="https://medium.com/@hakanguzelgulgen" target="blank">medium</a> •
+<a href="https://medium.com/@hakanguzelgulgen" target="blank">medium</a>
 </p>
